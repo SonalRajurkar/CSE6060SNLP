@@ -1,36 +1,18 @@
-## Welcome to GitHub Pages
+## Natural Language Processing Tasks
 
-You can use the [editor on GitHub](https://github.com/SonalRajurkar/CSE6060SNLP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this project, i have implemented various NLP tasks which includes exploring NLTK, SpaCy, regional language(in marathi). This also includes chunking, embedding and various tasks performed in marathi language. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Exploring NLTK 
+In this I have performed tokenization, POS tagging operations, Stemming, Lemmatizer, Wordnet, Text Classification and basic pipeline operations. 
 
-### Markdown
+## Exploring Spacy
+In this I have explored basic functionalities of SpaCy. How it defers from nltk and its experiments.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Exploring regional language
+In this nlp tasks were performed in marathi language. I performed tokenization, similarity, prediction of next words, vectorization in that. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SonalRajurkar/CSE6060SNLP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
