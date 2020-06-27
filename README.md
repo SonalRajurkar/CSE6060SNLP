@@ -1,9 +1,9 @@
 ## Natural Language Processing Tasks
 
-In this project, i have implemented various NLP tasks which includes exploring NLTK, SpaCy, regional language(in marathi). This also includes chunking, embedding and various tasks performed in marathi language. 
+In this project, I have implemented various NLP tasks which includes exploring NLTK, SpaCy, regional language(in marathi). This also includes chunking, embedding and various tasks performed in marathi language. 
 
 ## Exploring NLTK 
-In this I have performed tokenization, POS tagging operations, Stemming, Lemmatizer, Wordnet, Text Classification and basic pipeline operations. 
+In this I have performed tokenization, POS tagging operations, Stemming, Lemmatizer, Wordnet, Vectorization, Chunking, Embedding, Text Classification, Classification using Logistic Regression and basic pipeline operations. 
 
 ## Exploring Spacy
 In this I have explored basic functionalities of SpaCy. How it defers from nltk and its experiments.
@@ -11,7 +11,14 @@ In this I have explored basic functionalities of SpaCy. How it defers from nltk 
 ## Exploring regional language
 In this nlp tasks were performed in marathi language. I performed tokenization, similarity, prediction of next words, vectorization in that. 
 
+## Sentiment analysis movie review
+This python file contains the sentiment analysis performed on movie data. 
 
+## Review doc
+This doc file contains review of 5 research papers on sentiment analysis. I have referred 5 papers and written the summary of those including all statistics and tables.
+
+## FSA 
+This word file contains the finite state automata of adjectives in marathi language with examples.
 
 
 ### Support or Contact
