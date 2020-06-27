@@ -4,7 +4,8 @@
 In this project, I have implemented various NLP tasks which includes exploring NLTK, SpaCy, regional language(in marathi). This also includes chunking, embedding and various tasks performed in marathi language. 
 
 ## Exploring NLTK 
-In this I have performed tokenization, POS tagging operations, Stemming, Lemmatizer, Wordnet, Vectorization, Chunking, Embedding, Text Classification, Classification using Logistic Regression and basic pipeline operations. 
+In this I have performed tokenization, POS tagging operations, Stemming, Lemmatizer, Wordnet, Vectorization, Chunking, Embedding, Text Classification, Classification using Logistic Regression and basic pipeline operations.
+
 <a href="Intro_nltk.ipynb">1.Introduction</a><br>
 <a href="Lemmatizer.ipynb">2.Lemmatizer</a><br>
 <a href="Stemming.ipynb">3. Stemming</a><br>
@@ -25,10 +26,12 @@ In this I have explored basic functionalities of SpaCy. How it defers from nltk 
 
 ## Exploring regional language
 In this nlp tasks were performed in marathi language. I performed tokenization, similarity, prediction of next words, vectorization in that. 
+
 <a href="regional_lang.ipynb">1. Regional language</a><br>
 
 ## Sentiment analysis movie review
 This python file contains the sentiment analysis performed on movie data. I am presently working on sentiment analysis in Marathi using Marathi WordNet.
+
 <a href="Sentiment_Analysis_Movie_Review.ipynb">1. Sentiment Analysis of Movie Review</a><br>
 
 ## Review doc
