@@ -43,6 +43,8 @@ This doc file contains review of 5 research papers on sentiment analysis. I have
 ## FSA 
 This word file contains the finite state automata of adjectives in marathi language with examples.
 
+<a href="https://github.com/SonalRajurkar/CSE6060SNLP/blob/master/SNLP_FSA.docx">1. FSA</a><br>
+
 
 ### Support or Contact
 
