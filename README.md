@@ -1,7 +1,9 @@
+
 ## Natural Language Processing Tasks
 
 In this project, I have implemented various NLP tasks which includes exploring NLTK, SpaCy, regional language(in marathi). This also includes chunking, embedding and various tasks performed in marathi language. 
 
+<a href="chunking">1.Chunking</a><br>
 ## Exploring NLTK 
 In this I have performed tokenization, POS tagging operations, Stemming, Lemmatizer, Wordnet, Vectorization, Chunking, Embedding, Text Classification, Classification using Logistic Regression and basic pipeline operations. 
 
