@@ -37,6 +37,8 @@ This python file contains the sentiment analysis performed on movie data. I am p
 ## Review doc
 This doc file contains review of 5 research papers on sentiment analysis. I have referred 5 papers and written the summary of those including all statistics and tables. This was done in place of quiz (not attended quiz 1)
 
+<a href="https://github.com/SonalRajurkar/CSE6060SNLP/blob/master/review%20doc.docx">1. Review Document</a><br>
+
 
 ## FSA 
 This word file contains the finite state automata of adjectives in marathi language with examples.
