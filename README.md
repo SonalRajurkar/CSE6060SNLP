@@ -12,7 +12,7 @@ In this I have explored basic functionalities of SpaCy. How it defers from nltk 
 In this nlp tasks were performed in marathi language. I performed tokenization, similarity, prediction of next words, vectorization in that. 
 
 ## Sentiment analysis movie review
-This python file contains the sentiment analysis performed on movie data. 
+This python file contains the sentiment analysis performed on movie data. I am presently working on sentiment analysis in Marathi using Marathi WordNet.
 
 ## Review doc
 This doc file contains review of 5 research papers on sentiment analysis. I have referred 5 papers and written the summary of those including all statistics and tables. This was done in place of quiz (not attended quiz 1)
