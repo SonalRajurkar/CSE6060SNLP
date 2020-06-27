@@ -15,7 +15,7 @@ In this nlp tasks were performed in marathi language. I performed tokenization, 
 This python file contains the sentiment analysis performed on movie data. 
 
 ## Review doc
-This doc file contains review of 5 research papers on sentiment analysis. I have referred 5 papers and written the summary of those including all statistics and tables.
+This doc file contains review of 5 research papers on sentiment analysis. I have referred 5 papers and written the summary of those including all statistics and tables. This was done in place of quiz (not attended quiz 1)
 
 ## FSA 
 This word file contains the finite state automata of adjectives in marathi language with examples.
