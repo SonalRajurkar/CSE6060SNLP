@@ -10,7 +10,7 @@ In this I have performed tokenization, POS tagging operations, Stemming, Lemmati
 <a href="Lemmatizer.ipynb">2.Lemmatizer</a><br>
 <a href="Stemming.ipynb">3. Stemming</a><br>
 <a href="Exploring wordnet.ipynb">4. Wordnet</a><br>
-<a href="Vectorizers and cosine similarity.ipynb">5. Vectorization and Cosine Similarity</a><br>
+<a href="Vectorisers and cosine similarity.ipynb">5. Vectorization and Cosine Similarity</a><br>
 <a href="Basic text processing pipeline(+homework2).ipynb">6. Pipeline</a><br>
 <a href="Text classifier.ipynb">7. Text Classifier</a><br>
 <a href="chunking.ipynb">8.Chunking</a><br>
